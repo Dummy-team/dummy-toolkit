@@ -1,0 +1,12 @@
+body { position: relative; }
+
+.cookie-box {
+  margin: 0; width: 100%; background-color: $black; transition: bottom .3s; text-align: center; color: $white;
+
+
+  .cookie-box-close { color: $white;
+    &:hover { color: $link-color; }
+  }
+}
+.cookie-box-isopen { position: absolute; bottom: 0;transition: bottom .3s .5s; }
+.cookie-box-isclose { position: absolute; bottom: -70px; }
