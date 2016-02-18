@@ -1,4 +1,4 @@
-# ![Dummy](https://raw.githubusercontent.com/dummy-team/dummy/gh-pages/img/dummy.png)
+# ![dummy-toolkit](https://raw.githubusercontent.com/dummy-team/dummy/gh-pages/img/dummy-toolkit.png)
 
 This toolkit is a collection of javascript and css components, ready to use with the dummy-team/dummy.
 
